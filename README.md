@@ -25,5 +25,5 @@
 1) Для процесса потоковой передачи и обработки данных нужно запустить файл thread_run.py:
 python thread_run.py
 2) Для отображения визуалищированной информации в виде дашбордов нужно запустить файл visualization.py:
-streamlit run visualization.pyd
+streamlit run visualization.py
 
